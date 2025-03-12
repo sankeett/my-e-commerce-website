@@ -18,7 +18,7 @@ The application is composed of the following Features:
 
 * As of this moment I am using firebase for user authentication, also enabled google sign in authentication.
 * It is also used to store user data 
-* In the future it will also hold all shopping related and cart related dtaa of each user.
+* In the future it will also hold all shopping related and cart related data of each user.
 
 **Progress:**
 Version 1 completed and hosted
@@ -80,15 +80,6 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-
-
-  
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
-  ```
 
 * Install node modules
 
